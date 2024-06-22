@@ -1,5 +1,7 @@
 package model;
 
-public enum Type { Student, Teacher
+public enum Type {
+    Student,
+    Teacher
 
 }
